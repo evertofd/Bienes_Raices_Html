@@ -41,19 +41,19 @@ h4{
     max-width: 800px;
   }
 
-}
 /*header*/
 
 
-.site-header .inicio{
+
+.site-header-inicio{
   background-image: url(../img/header.jpg);
+  background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   height:100vh;
   min-height: 60rem;
 
 }
-
 .site-header{
   background-color: #333;
   padding: 1rem 0 3rem 0;
